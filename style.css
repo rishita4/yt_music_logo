@@ -1,0 +1,64 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+    height: 720px;
+    width: 100%;
+}
+
+.logobox{
+    width: 350px;
+    height: 350px;
+    /* border: solid 2px black; */
+    border-radius: 110px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: whitesmoke;
+    
+}
+
+.topcircle{
+    width: 280px;
+    height: 280px;
+    /* border: solid 2px black; */
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(213, 9, 9);
+
+}
+
+
+.middle1{
+    width: 180px;
+    height: 180px;
+    /* border: solid 2px black; */
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: whitesmoke;
+}
+
+.middle2{
+    width: 160px;
+    height: 160px;
+    /* border: solid 2px black; */
+    border-radius: 50%;
+    background-color: rgb(213, 9, 9);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.iconbox{
+    margin-left: 35px;
+    border-style: solid;
+    width: 72px;
+    height: 40px;
+    border-width: 55px 0 55px 80px;
+    box-sizing: border-box;
+    border-color:rgb(213, 9, 9) rgb(213, 9, 9) rgb(213, 9, 9) whitesmoke;
+}
